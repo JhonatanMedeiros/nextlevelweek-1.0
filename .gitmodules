@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/JhonatanMedeiros/nextlevelweek-1.0-web
+[submodule "server"]
+	path = server
+	url = https://github.com/JhonatanMedeiros/nextlevelweek-1.0-server
